@@ -25,7 +25,7 @@ Genome Schema™, обеспечив валидность, полноту и с�
 МЕТОДОЛОГИЯ:
 Автор: Dm.Andreyanov
 Проект: Prizolov Market & Lab
-Документация: https://github.com/GIBDD-DPS/agent-genome-mapping
+Документация: https://github.com/prizolov-lab/agent-genome-mapping
 
 ─────────────────────────────────────────────────────────────────────────────
 
@@ -150,7 +150,7 @@ agent_genome:
 ─────────────────────────────────────────────────────────────────────────────
 Автор промта: Dm.Andreyanov
 Методология: Agent Genome Mapping™ v0.1.0
-Документация: https://github.com/GIBDD-DPS/agent-genome-mapping
+Документация: https://github.com/prizolov-lab/agent-genome-mapping
 © 2026 Prizolov Market & Lab
 
 ПРАВИЛА:

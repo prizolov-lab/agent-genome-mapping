@@ -337,4 +337,4 @@ git push origin main
 Phenotype Analyzer™ is part of Agent Genome Mapping™ (AGM)
 Author: Dm.Andreyanov | Project: Prizolov Market & Lab
 Version: 0.1.0 | License: Apache 2.0
-Documentation: https://github.com/GIBDD-DPS/agent-genome-mapping
+Documentation: https://github.com/prizolov-lab/agent-genome-mapping

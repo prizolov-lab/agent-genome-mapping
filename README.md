@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/agent-genome-mapping.svg)](https://pypi.org/project/agent-genome-mapping/)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/agent-genome-mapping.svg)](https://pypi.org/project/agent-genome-mapping/)
-[![License](https://img.shields.io/pypi/l/agent-genome-mapping.svg)](https://github.com/GIBDD-DPS/agent-genome-mapping/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/agent-genome-mapping.svg)](https://github.com/prizolov-lab/agent-genome-mapping/blob/main/LICENSE)
 [![Python](https://img.shields.io/pypi/pyversions/agent-genome-mapping.svg)](https://pypi.org/project/agent-genome-mapping/)
 
 > **Evolutionary Architecture for Autonomous AI Systems**
@@ -32,7 +32,7 @@
 
 ## 🔹 Что такое AGM
 
-**Agent Genome Mapping™ (AGM)** — первая методология, применяющая принципы биологической генетики к проектированию автономных ИИ-агентов.
+**Agent Genome Mapping™ (AGM)** - первая методология, применяющая принципы биологической генетики к проектированию автономных ИИ-агентов.
 
 ### Проблемы, которые решает AGM
 
@@ -66,10 +66,10 @@
 │  1. GENOME SCHEMA™                                          │
 │     Стандартизированное описание «ДНК агента»               │
 │     ─────────────────────────────────────────────────────   │
-│     • cognitive_genes  — как агент мыслит                   │
-│     • ethics_genes     — какие ограничения соблюдает        │
-│     • social_genes     — как взаимодействует с другими      │
-│     • meta_genes       — как эволюционирует                 │
+│     • cognitive_genes  - как агент мыслит                   │
+│     • ethics_genes     - какие ограничения соблюдает        │
+│     • social_genes     - как взаимодействует с другими      │
+│     • meta_genes       - как эволюционирует                 │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -77,9 +77,9 @@
 │  2. PHENOTYPE ENGINE™                                       │
 │     Прогноз поведения агента в заданном контексте           │
 │     ─────────────────────────────────────────────────────   │
-│     • prediction       — эффективность 0-100%               │
-│     • risk_flags       — карта рисков                       │
-│     • recommendation   — deploy / tune_first / reject       │
+│     • prediction       - эффективность 0-100%               │
+│     • risk_flags       - карта рисков                       │
+│     • recommendation   - deploy / tune_first / reject       │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -87,9 +87,9 @@
 │  3. COMPATIBILITY MATRIX™                                   │
 │     Оценка совместимости двух и более агентов               │
 │     ─────────────────────────────────────────────────────   │
-│     • cognitive_synergy   — синергизм мышления (40%)        │
-│     • ethics_alignment    — этическое выравнивание (35%)    │
-│     • social_harmony      — социальная гармония (25%)       │
+│     • cognitive_synergy   - синергизм мышления (40%)        │
+│     • ethics_alignment    - этическое выравнивание (35%)    │
+│     • social_harmony      - социальная гармония (25%)       │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -97,9 +97,9 @@
 │  4. EVOLUTIONARY SANDBOX™                                   │
 │     Среда для направленной эволюции агентов                 │
 │     ─────────────────────────────────────────────────────   │
-│     • breed()    — скрещивание геномов                      │
-│     • mutate()   — направленная мутация                     │
-│     • select()   — естественный отбор                       │
+│     • breed()    - скрещивание геномов                      │
+│     • mutate()   - направленная мутация                     │
+│     • select()   - естественный отбор                       │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -107,9 +107,9 @@
 │  5. DRIFT MONITOR™ + GENOME LEDGER™                         │
 │     Отслеживание отклонений и аудит в реальном времени      │
 │     ─────────────────────────────────────────────────────   │
-│     • check_drift()     — проверка отклонений               │
-│     • get_ledger()      — журнал изменений                  │
-│     • verify_integrity() — верификация цепочки              │
+│     • check_drift()     - проверка отклонений               │
+│     • get_ledger()      - журнал изменений                  │
+│     • verify_integrity() - верификация цепочки              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -135,7 +135,7 @@ pip install agent-genome-mapping
 ### Из исходного кода
 
 ```bash
-git clone https://github.com/GIBDD-DPS/agent-genome-mapping.git
+git clone https://github.com/prizolov-lab/agent-genome-mapping.git
 cd agent-genome-mapping
 pip install -e .
 ```
@@ -322,7 +322,7 @@ if report.status == "critical":
 ```
 
 Больше примеров в папке `examples/`:
-- `examples/quickstart.py` — полный пример всех модулей
+- `examples/quickstart.py` - полный пример всех модулей
 
 ---
 
@@ -352,13 +352,15 @@ if report.status == "critical":
 
 ## 🔹 Дорожная карта
 
+Сроки не фиксируются: версии выходят по готовности. Активное развитие метрик доверия идёт в [Agenomics](https://github.com/prizolov-lab/agenomics).
+
 | Версия | Квартал | План |
 |--------|---------|------|
-| **v0.1.0** | Q2 2026 | ✅ Первый публичный релиз (текущая) |
-| **v0.1.1** | Q2 2026 | 🔜 Исправление известных багов |
-| **v0.2.0** | Q3 2026 | 📋 Интеграция с LangChain, AutoGen, CrewAI |
-| **v0.3.0** | Q4 2026 | 📋 CLI-утилита, расширенная документация |
-| **v1.0.0** | Q1 2027 | 📋 Production release, сертификация AGM-Compliant |
+| **v0.1.0** | 2026 | ✅ Первый публичный релиз (текущая) |
+| **v0.1.1** | без срока | 🔜 Исправление известных багов |
+| **v0.2.0** | без срока | 📋 Интеграция с LangChain, AutoGen, CrewAI |
+| **v0.3.0** | без срока | 📋 CLI-утилита, расширенная документация |
+| **v1.0.0** | без срока | 📋 Production release, сертификация AGM-Compliant |
 
 ---
 
@@ -368,7 +370,7 @@ if report.status == "critical":
 
 | Канал | Ссылка |
 |-------|--------|
-| **GitHub Issues** | https://github.com/GIBDD-DPS/agent-genome-mapping/issues |
+| **GitHub Issues** | https://github.com/prizolov-lab/agent-genome-mapping/issues |
 | **LinkedIn** | https://www.linkedin.com/in/dmitry-andreyanov-b587b44b/ |
 | **Email** | dmitry@prizolov.ru |
 | **Medium** | https://medium.com/@dima100575_70241 |
@@ -385,17 +387,17 @@ if report.status == "critical":
 
 ## 🔹 Лицензия
 
-Распространяется по лицензии **Apache 2.0** — см. файл [LICENSE](LICENSE) для деталей.
+Распространяется по лицензии **Apache 2.0** - см. файл [LICENSE](LICENSE) для деталей.
 
 ### Товарные знаки
 
-- Agent Genome Mapping™ — trademark of Prizolov Lab
-- Genome Schema™ — trademark of Prizolov Lab
-- Phenotype Engine™ — trademark of Prizolov Lab
-- Compatibility Matrix™ — trademark of Prizolov Lab
-- Evolutionary Sandbox™ — trademark of Prizolov Lab
-- Drift Monitor™ — trademark of Prizolov Lab
-- Genome Ledger™ — trademark of Prizolov Lab
+- Agent Genome Mapping™ - trademark of Prizolov Lab
+- Genome Schema™ - trademark of Prizolov Lab
+- Phenotype Engine™ - trademark of Prizolov Lab
+- Compatibility Matrix™ - trademark of Prizolov Lab
+- Evolutionary Sandbox™ - trademark of Prizolov Lab
+- Drift Monitor™ - trademark of Prizolov Lab
+- Genome Ledger™ - trademark of Prizolov Lab
 
 ---
 
@@ -409,7 +411,7 @@ if report.status == "critical":
   title = {Agent Genome Mapping™: Evolutionary Architecture for Autonomous AI Systems},
   year = {2026},
   publisher = {Prizolov Lab},
-  url = {https://github.com/GIBDD-DPS/agent-genome-mapping}
+  url = {https://github.com/prizolov-lab/agent-genome-mapping}
 }
 ```
 

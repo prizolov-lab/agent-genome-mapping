@@ -26,11 +26,11 @@ setup(
     # Автор
     author="Dm.Andreyanov",
     author_email="imperiapmk@gmail.com",
-    url="https://github.com/GIBDD-DPS/agent-genome-mapping",
+    url="https://github.com/prizolov-lab/agent-genome-mapping",
     project_urls={
-        "Documentation": "https://github.com/GIBDD-DPS/agent-genome-mapping",
-        "Source": "https://github.com/GIBDD-DPS/agent-genome-mapping",
-        "Tracker": "https://github.com/GIBDD-DPS/agent-genome-mapping/issues",
+        "Documentation": "https://github.com/prizolov-lab/agent-genome-mapping",
+        "Source": "https://github.com/prizolov-lab/agent-genome-mapping",
+        "Tracker": "https://github.com/prizolov-lab/agent-genome-mapping/issues",
         "LinkedIn": "https://www.linkedin.com/in/dmitry-andreyanov-b587b44b/",
         "Medium": "https://medium.com/@dima100575_70241"
     },

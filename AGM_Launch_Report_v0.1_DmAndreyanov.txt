@@ -41,7 +41,7 @@ AGENT GENOME MAPPING™ — ОТЧЁТ О ПУБЛИЧНОМ ЗАПУСКЕ
    [ссылка на ваш пост]
 
 🔗 GitHub-репозиторий (open-core):
-   https://github.com/GIBDD-DPS/agent-genome-mapping
+   https://github.com/prizolov-lab/agent-genome-mapping
 
 ================================================================================
 
@@ -93,7 +93,7 @@ AGENT GENOME MAPPING™ — ОТЧЁТ О ПУБЛИЧНОМ ЗАПУСКЕ
 При использовании, цитировании или адаптации методологии необходимо указывать:
 
   Andreyanov, D. (2026). Agent Genome Mapping™. Prizolov Lab.
-  https://github.com/GIBDD-DPS/agent-genome-mapping
+  https://github.com/prizolov-lab/agent-genome-mapping
 
 © 2026 Dm.Andreyanov. Agent Genome Mapping™ is a trademark of Prizolov Lab.
 

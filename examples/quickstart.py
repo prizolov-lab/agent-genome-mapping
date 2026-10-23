@@ -331,7 +331,7 @@ def main():
   ✅ Evolutionary Sandbox™ — Эволюция агентов
   ✅ Drift Monitor™      — Мониторинг и аудит
 
-  📚 Документация: github.com/GIBDD-DPS/agent-genome-mapping
+  📚 Документация: github.com/prizolov-lab/agent-genome-mapping
   📧 Контакты: Dm.Andreyanov | Prizolov Market & Lab
   © 2026 Agent Genome Mapping™ is a trademark of Prizolov Lab.
     """)

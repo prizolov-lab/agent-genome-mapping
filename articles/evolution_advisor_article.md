@@ -690,7 +690,7 @@ def run_full_evolution_pipeline(initial_genome, target_metrics, partners=[]):
 ОТВЕТ: В разделе Technical Specifications этой статьи.
 
 ВОПРОС: Как сообщить об ошибке в промпте?
-ОТВЕТ: Отправьте Issue на GitHub: https://github.com/GIBDD-DPS/agent-genome-mapping/issues
+ОТВЕТ: Отправьте Issue на GitHub: https://github.com/prizolov-lab/agent-genome-mapping/issues
 
 ================================================================================
 11. ЛИЦЕНЗИЯ И АВТОРСТВО
@@ -703,7 +703,7 @@ def run_full_evolution_pipeline(initial_genome, target_metrics, partners=[]):
 ```text
 Автор промта: Dm.Andreyanov
 Методология: Agent Genome Mapping™ v0.1.0
-Документация: https://github.com/GIBDD-DPS/agent-genome-mapping
+Документация: https://github.com/prizolov-lab/agent-genome-mapping
 © 2026 Prizolov Market & Lab
 ```
 
@@ -791,7 +791,7 @@ cd agm-prompts-library
 git init
 git add .
 git commit -m "Initial release: Prompts Library v0.1.0 - Evolution Advisor™ (#04)"
-git remote add origin https://github.com/GIBDD-DPS/agm-prompts-library.git
+git remote add origin https://github.com/prizolov-lab/agm-prompts-library.git
 git push -u origin main
 
 
@@ -803,5 +803,5 @@ git push -u origin main
 Evolution Advisor™ is part of Agent Genome Mapping™ (AGM)
 Author: Dm.Andreyanov | Project: Prizolov Market & Lab
 Version: 0.1.0 | License: Apache 2.0
-Documentation: https://github.com/GIBDD-DPS/agent-genome-mapping
+Documentation: https://github.com/prizolov-lab/agent-genome-mapping
 ================================================================================

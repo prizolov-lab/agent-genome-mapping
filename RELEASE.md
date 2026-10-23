@@ -97,7 +97,7 @@ git tag -a v0.1.0 -m "Release v0.1.0 — Initial public release of AGM"
 git push origin v0.1.0
 
 # Создание GitHub Release:
-# 1. Перейти на github.com/GIBDD-DPS/agent-genome-mapping/releases
+# 1. Перейти на github.com/prizolov-lab/agent-genome-mapping/releases
 # 2. Click "Draft a new release"
 # 3. Select tag v0.1.0
 # 4. Add release notes
@@ -137,7 +137,7 @@ prediction = engine.predict(genome)
 
 📚 ДОКУМЕНТАЦИЯ
 
-• GitHub: https://github.com/GIBDD-DPS/agent-genome-mapping
+• GitHub: https://github.com/prizolov-lab/agent-genome-mapping
 • LinkedIn: https://www.linkedin.com/in/dmitry-andreyanov-b587b44b/
 • Medium: https://medium.com/@dima100575_70241
 
@@ -181,7 +181,7 @@ Apache 2.0
 |---------------|-----------------------------------------------------|
 | PyPI          | https://pypi.org/project/agent-genome-mapping/      |
 | TestPyPI      | https://test.pypi.org/project/agent-genome-mapping/ |
-| GitHub        | https://github.com/GIBDD-DPS/agent-genome-mapping   |
+| GitHub        | https://github.com/prizolov-lab/agent-genome-mapping   |
 | LinkedIn      | https://www.linkedin.com/in/dmitry-andreyanov-b587b44b/ |
 | Medium        | https://medium.com/@dima100575_70241                |
 
@@ -190,7 +190,7 @@ Apache 2.0
 ================================================================================
 
 ВОПРОСЫ И ПРЕДЛОЖЕНИЯ:
-• GitHub Issues: https://github.com/GIBDD-DPS/agent-genome-mapping/issues
+• GitHub Issues: https://github.com/prizolov-lab/agent-genome-mapping/issues
 • LinkedIn: https://www.linkedin.com/in/dmitry-andreyanov-b587b44b/
 • Email: imperiapmk@gmail.com
 
@@ -204,6 +204,6 @@ AI Architect & Founder of Prizolov Market & Lab, в 2026 году.
 При использовании или цитировании необходимо указывать:
 
   Andreyanov, D. (2026). Agent Genome Mapping™ — Release Guide.
-  Prizolov Lab. https://github.com/GIBDD-DPS/agent-genome-mapping
+  Prizolov Lab. https://github.com/prizolov-lab/agent-genome-mapping
 
 © 2026 Dm.Andreyanov. Agent Genome Mapping™ is a trademark of Prizolov Lab.
